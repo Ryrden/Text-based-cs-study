@@ -34,3 +34,12 @@ As soon as possible, I will review your pull request and merge it.
 
 - **HASKELL**
   - Learn You Haskell - [link](http://learnyouahaskell.com/chapters)
+
+### Code complexity
+
+- Cyclomatic Complexity - [link](https://en.wikipedia.org/wiki/Cyclomatic_complexity)
+- Big O Notation - [link](https://vitorsalmeida.com/blog/ptBR/big-o-notation)
+
+### Cryptography
+
+- Linear Algebra and Cryptography - [link](http://i-rep.emu.edu.tr:8080/xmlui/bitstream/handle/11129/1420/ElfadelAjaeb.pdf?sequence=1#:~:text=Cryptography%20is%20one%20of%20the,and%20security%20of%20this%20information.)
