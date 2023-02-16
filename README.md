@@ -1,6 +1,10 @@
-# Text-based Study
+# Text-based computer science study resources
 
-> This repository has as its purpose centralizing links to learn computing and technologies through text-based materials.
+> This repository was created with the goal of centralizing links to high-quality, text-based study materials for computer science enthusiasts. 
+
+Whether you're a student looking to supplement your coursework, a self-taught programmer seeking to expand your knowledge, or simply interested in learning more about computer science, this repository is a valuable resource for you. Here you will find links to online textbooks, tutorials, documentation, and other text-based resources that cover a wide range of topics in computer science, from programming languages and algorithms to machine learning and data science. 
+
+Our goal is to make it easy for anyone to find the resources they need to learn and grow as a computer scientist. So dive in and start exploring the many text-based resources available here!
 
 ## How to contribute
 
