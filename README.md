@@ -9,11 +9,15 @@
   - [About this repository](#about-this-repository)
   - [Free material by theme](#free-material-by-theme)
     - [Web Development](#web-development)
+      - [Frameworks](#frameworks)
     - [Cyber Security](#cyber-security)
     - [Linux](#linux)
     - [Programming Languages](#programming-languages)
     - [Code complexity](#code-complexity)
     - [Cryptography](#cryptography)
+    - [Software Engineering](#software-engineering)
+    - [Algorithms](#algorithms)
+      - [Techniques](#techniques)
   - [How to contribute](#how-to-contribute)
 
 ## About this repository
@@ -29,6 +33,14 @@ Our goal is to make it easy for anyone to find the resources they need to learn 
 ### Web Development
 
 - (HTML, CSS) Internet is Hard - [link](https://www.internetingishard.com/)
+- (HTML, CSS, Javascript) HTML Dog - [link](https://www.htmldog.com/)
+- (Javascript) Javascript.info - [link](https://javascript.info/)
+- (Javascript) Eloquent Javascript Book - [link](https://eloquentjavascript.net/)
+
+#### Frameworks
+
+- (React) React Docs - [link](https://reactjs.org/docs/getting-started.html)
+- (NextJs) NextJs Docs - [link](https://nextjs.org/docs/getting-started)
 
 ### Cyber Security
 
@@ -53,6 +65,18 @@ Our goal is to make it easy for anyone to find the resources they need to learn 
 ### Cryptography
 
 - Linear Algebra and Cryptography - [link](http://i-rep.emu.edu.tr:8080/xmlui/bitstream/handle/11129/1420/ElfadelAjaeb.pdf?sequence=1#:~:text=Cryptography%20is%20one%20of%20the,and%20security%20of%20this%20information.)
+
+### Software Engineering
+
+- Engenharia de Software Moderna - [link](https://engsoftmoderna.info/) (PT-BR)
+
+### Algorithms
+
+- Tech Interview Handbook - [link](https://yangshun.github.io/tech-interview-handbook/)
+
+#### Techniques
+
+- Guide to Competitive Programming - [link](https://cses.fi/book/book.pdf)
 
 ---
 
