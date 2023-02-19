@@ -57,6 +57,9 @@ Our goal is to make it easy for anyone to find the resources they need to learn 
 - **HASKELL**
   - Learn You Haskell - [link](http://learnyouahaskell.com/chapters)
 
+- **C**
+  - C Handbook Article from FreeCodeCamp - [link](https://www.freecodecamp.org/news/the-c-beginners-handbook/#pointers)
+
 ### Code complexity
 
 - Cyclomatic Complexity - [link](https://en.wikipedia.org/wiki/Cyclomatic_complexity)
