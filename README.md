@@ -60,6 +60,11 @@ Our goal is to make it easy for anyone to find the resources they need to learn 
 - **C**
   - C Handbook Article from FreeCodeCamp - [link](https://www.freecodecamp.org/news/the-c-beginners-handbook/#pointers)
 
+- **GOLANG**
+  - Official Go Docs: Tour - [link](https://go.dev/tour/list)
+  - Learning Go - [link](https://www.miek.nl/go/)
+  - Go by Example - [link](https://gobyexample.com/)
+
 ### Code complexity
 
 - Cyclomatic Complexity - [link](https://en.wikipedia.org/wiki/Cyclomatic_complexity)
