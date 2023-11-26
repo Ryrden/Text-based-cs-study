@@ -11,6 +11,7 @@
     - [Web Development](#web-development)
       - [Frameworks](#frameworks)
     - [Cyber Security](#cyber-security)
+    - [CTF (Capture the Flag)](#ctf-capture-the-flag)
     - [Linux](#linux)
     - [Programming Languages](#programming-languages)
     - [Code complexity](#code-complexity)
@@ -45,6 +46,15 @@ Our goal is to make it easy for anyone to find the resources they need to learn 
 ### Cyber Security
 
 - TryHackMe - [link](https://tryhackme.com/paths)
+- PortSwigger - [link](https://portswigger.net)
+- Tarponise Medium - [link](https://medium.com/@tarponise)
+- Introdução à segurança digital - Ganesh - [link](https://gitbook.ganeshicmc.com/redes/pentest/ssh)
+
+### CTF (Capture the Flag)
+
+- Hack the box - [link](https://www.hackthebox.com/)
+- Over the Wire - [link](https://overthewire.org/wargames/)
+- Hacker 101 - [link](https://www.hacker101.com/)
 
 ### Linux
 
