@@ -13,6 +13,7 @@
     - [Cyber Security](#cyber-security)
     - [CTF (Capture the Flag)](#ctf-capture-the-flag)
     - [Linux](#linux)
+    - [Computer Network](#computer-network)
     - [Programming Languages](#programming-languages)
     - [Code complexity](#code-complexity)
     - [Cryptography](#cryptography)
@@ -63,6 +64,10 @@ Our goal is to make it easy for anyone to find the resources they need to learn 
 - Guia Foca Linux - [link](https://www.guiafoca.org/guiaonline/iniciante/index.html)
 - Sistemas Operacionais 2 - FATEC São Paulo - [link](https://github.com/lettymoon/FATECSP-ISO200)
 - Linux na Web - [link](https://www.linuxnaweb.com/)
+
+### Computer Network
+
+- Introdução à Redes - CCNA - [link](https://ccna.network/ccna-1)
 
 ### Programming Languages
 
