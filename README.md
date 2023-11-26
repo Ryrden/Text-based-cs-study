@@ -11,7 +11,9 @@
     - [Web Development](#web-development)
       - [Frameworks](#frameworks)
     - [Cyber Security](#cyber-security)
+    - [CTF (Capture the Flag)](#ctf-capture-the-flag)
     - [Linux](#linux)
+    - [Computer Network](#computer-network)
     - [Programming Languages](#programming-languages)
     - [Code complexity](#code-complexity)
     - [Cryptography](#cryptography)
@@ -45,10 +47,27 @@ Our goal is to make it easy for anyone to find the resources they need to learn 
 ### Cyber Security
 
 - TryHackMe - [link](https://tryhackme.com/paths)
+- PortSwigger - [link](https://portswigger.net)
+- Tarponise Medium - [link](https://medium.com/@tarponise)
+- Introdução à segurança digital - Ganesh - [link](https://gitbook.ganeshicmc.com/redes/pentest/ssh)
+
+### CTF (Capture the Flag)
+
+- Hack the box - [link](https://www.hackthebox.com/)
+- Over the Wire - [link](https://overthewire.org/wargames/)
+- Hacker 101 - [link](https://www.hacker101.com/)
 
 ### Linux
 
 - Advanced Linux Programming Book - [link](https://mentorembedded.github.io/advancedlinuxprogramming/alp-folder/)
+- Learning LPI - [link](https://learning.lpi.org/pt/learning-materials/learning-materials/)
+- Guia Foca Linux - [link](https://www.guiafoca.org/guiaonline/iniciante/index.html)
+- Sistemas Operacionais 2 - FATEC São Paulo - [link](https://github.com/lettymoon/FATECSP-ISO200)
+- Linux na Web - [link](https://www.linuxnaweb.com/)
+
+### Computer Network
+
+- Introdução à Redes - CCNA - [link](https://ccna.network/ccna-1)
 
 ### Programming Languages
 
