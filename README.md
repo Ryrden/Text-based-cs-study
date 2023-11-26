@@ -59,6 +59,10 @@ Our goal is to make it easy for anyone to find the resources they need to learn 
 ### Linux
 
 - Advanced Linux Programming Book - [link](https://mentorembedded.github.io/advancedlinuxprogramming/alp-folder/)
+- Learning LPI - [link](https://learning.lpi.org/pt/learning-materials/learning-materials/)
+- Guia Foca Linux - [link](https://www.guiafoca.org/guiaonline/iniciante/index.html)
+- Sistemas Operacionais 2 - FATEC São Paulo - [link](https://github.com/lettymoon/FATECSP-ISO200)
+- Linux na Web - [link](https://www.linuxnaweb.com/)
 
 ### Programming Languages
 
